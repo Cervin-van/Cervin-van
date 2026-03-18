@@ -4,8 +4,10 @@ on:
   # Запускається щодня о 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
-  # Дозволяє запустити вручну один раз
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -13,7 +15,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 1. Генеруємо SVG змійку зі статистики контрибуцій
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,7 +23,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 2. Публікуємо SVG у гілку output
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
