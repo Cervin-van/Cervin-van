@@ -99,6 +99,74 @@ SPA на React + TypeScript
 
 ---
 
+<!-- ── CLASS IVAN ───────────────────────────────────────────────── -->
+<div align="center">
+
+```python
+class Ivan:
+    name, age, location = "Ivan", 19, "Lviv, Ukraine 🇺🇦"
+    university = "Lviv Polytechnic National University"
+
+    stack = {
+        "backend":   ["Python", "Django", "FastAPI", "Flask", "DRF"],
+        "frontend":  ["React", "JavaScript", "TypeScript", "HTML", "CSS"],
+        "databases": ["PostgreSQL", "SQLite"],
+        "devops":    ["Docker", "Linux", "Git", "Cisco"],
+    }
+
+    def greet(self): return "Let's build something awesome! 🚀"
+```
+
+</div>
+
+---
+
+<!-- ── ✅ MASTERED  |  🌱 LEARNING ─────────────────────────────── -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### ✅ Mastered
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00F5FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
+![DRF](https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=FF2D78)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🌱 Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+![SCSS](https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=E92063)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=37814A)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=python&logoColor=FF2D78)
+![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=0A9EDC)
+![Asyncio](https://img.shields.io/badge/Asyncio-0d1117?style=flat-square&logo=python&logoColor=00F5FF)
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ╔══════════════════════════════════════════════════╗
      ║           HORIZONTAL TECH BADGES                ║
      ╚══════════════════════════════════════════════════╝ -->
