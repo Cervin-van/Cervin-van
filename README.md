@@ -1,63 +1,286 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB PROFILE README                        -->
+<!--                       Cervin-van / Ivan                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 👋 Hi there, I'm Ivan! 
-### ⚡ Full-Stack Developer | Python & React Enthusiast | Networking Geek
+<!-- ── ANIMATED TYPING HEADER ──────────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ivan+%7C+%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%2C+%D1%8F+%D0%86%D0%B2%D0%B0%D0%BD!;Full-Stack+Developer+%7C+Python+Enthusiast" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7128E&center=true&vCenter=true&width=435&lines=Python+%2F+Django+Developer;React+Frontend+Developer;Cisco+Networking+Student;Cybersecurity+Learner" alt="Typing SVG" />
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lviv-Polytechnic-blue?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/Age-19-f39c12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Learning-green?style=for-the-badge" />
-</p>
+<!-- ── PROFILE VIEWS + FOLLOWERS ───────────────────────────────── -->
+<a href="https://github.com/Cervin-van">
+  <img src="https://komarev.com/ghpvc/?username=Cervin-van&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="profile views"/>
+</a>
+<a href="https://github.com/Cervin-van?tab=followers">
+  <img src="https://img.shields.io/github/followers/Cervin-van?style=for-the-badge&color=FF6584&labelColor=1a1a2e&label=FOLLOWERS" alt="followers"/>
+</a>
+
+</div>
 
 ---
 
-</div>
+<!-- ════════════════════  ABOUT ME  ════════════════════════════════ -->
 
-### 🛠 Tech Stack & Tools
+<table>
+<tr>
+<td width="55%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### 🇬🇧 About Me
+
+```python
+class Ivan:
+    name       = "Ivan"
+    location   = "Lviv, Ukraine 🇺🇦"
+    university = "Lviv Polytechnic National University"
+    age        = 19
+    focus      = "Full-Stack Development"
+
+    stack = {
+        "backend":   ["Python", "Django", "FastAPI", "Flask"],
+        "frontend":  ["React", "HTML", "CSS", "JavaScript"],
+        "databases": ["PostgreSQL", "SQLite"],
+        "devops":    ["Docker", "Linux", "Git"],
+        "networks":  ["Cisco", "REST API"],
+    }
+
+    def greet(self):
+        return "Let's build something awesome! 🚀"
+```
+
+</td>
+<td width="45%" align="center">
+
+### 🇺🇦 Про мене
+
+🎓 Студент **Львівської Політехніки**  
+⚡ **19 років**, закоханий у код  
+🐍 Python-розробник & мережевий гік  
+🌐 Будую **Full-Stack** веб-застосунки  
+🔥 Захоплений **REST API** та бекенд-архітектурою  
+🎯 Прагну стати **Senior Full-Stack Developer**
+
+<br/>
+
+> *"Code is poetry written in logic"*  
+> — Ivan, 2026
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics & Language Mix
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Cervin-van&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="170px" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cervin-van&layout=compact&theme=radical&border_radius=10&hide_border=true" height="170px" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cervin-van&theme=radical&hide_border=true&border_radius=10" width="100%" />
-</div>
-
-### 📬 Let's Connect!
+<!-- ════════════════════  TECH STACK  ══════════════════════════════ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ТВІЙ_ЛІНК)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВІЙ_НІК)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твій@email.com)
+## 🛠️ Tech Stack & Tools | Технологічний стек
+
+### 🐍 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🗄️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🧰 Tools & Environment
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
+
+---
+
+<!-- ════════════════════  GITHUB STATS  ════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Stats | Статистика
+
+<a href="https://github.com/Cervin-van">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cervin-van&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&border_color=6C63FF&title_color=6C63FF&icon_color=FF6584"/>
+</a>
+<a href="https://github.com/Cervin-van">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cervin-van&layout=compact&theme=tokyonight&border_radius=12&border_color=6C63FF&title_color=6C63FF&langs_count=8"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cervin-van&theme=tokyonight&border_radius=12&border=6C63FF&ring=6C63FF&fire=FF6584&currStreakLabel=FF6584" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- ════════════════════  SNAKE ANIMATION  ═════════════════════════ -->
+
+<div align="center">
+
+## 🐍 Contribution Snake | Змія внесків
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ════════════════════  PROJECTS  ════════════════════════════════ -->
+
+<div align="center">
+
+## 📌 Pinned Projects | Закріплені проєкти
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce API
+> **Django REST Framework + PostgreSQL**
+
+Повноцінний бекенд для інтернет-магазину з JWT-автентифікацією, кошиком, замовленнями та адмін-панеллю.
+
+**Stack:** `Python` `Django` `DRF` `PostgreSQL` `Docker`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/Cervin-van)
+
+</td>
+<td width="50%">
+
+### ⚡ FastAPI Microservice
+> **FastAPI + SQLite + REST API**
+
+Швидкий REST API мікросервіс з автодокументацією Swagger, async-ендпоінтами та валідацією через Pydantic.
+
+**Stack:** `Python` `FastAPI` `SQLite` `Docker` `REST API`
+
+[![Repo](https://img.shields.io/badge/View_Repo-009688?style=for-the-badge&logo=github)](https://github.com/Cervin-van)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 React + Flask SPA
+> **Full-Stack Single Page App**
+
+Фронтенд на React з бекендом на Flask — особистий дашборд з авторизацією та темною темою.
+
+**Stack:** `React` `JavaScript` `CSS` `Flask` `Python`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF6584?style=for-the-badge&logo=github)](https://github.com/Cervin-van)
+
+</td>
+<td width="50%">
+
+### 🔧 Python Study Path
+> **Learning Repository**
+
+Структурований шлях вивчення Python: від основ до Django, FastAPI, REST API та DevOps-інструментів.
+
+**Stack:** `Python` `Django` `FastAPI` `Docker` `Linux`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FCC624?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Cervin-van/my_stady)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ════════════════════  ACTIVITY GRAPH  ══════════════════════════ -->
+
+<div align="center">
+
+## 📈 Activity Graph | Графік активності
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cervin-van&theme=tokyo-night&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FF6584&area=true&hide_border=false&border_color=6C63FF&radius=12" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ════════════════════  CONNECT  ═════════════════════════════════ -->
+
+<div align="center">
+
+## 🤝 Let's Connect! | Зв'яжись зі мною!
+
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/your_telegram" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:your.email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Cervin-van" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- ── WAVE FOOTER ──────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!+%7C+Дякую+за+візит!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="footer wave"/>
+
+</div>
+
+<!-- ════════════════════  SNAKE WORKFLOW  ══════════════════════════ -->
+<!--
+  ⚠️  IMPORTANT: To enable the snake animation, create this file:
+  .github/workflows/snake.yml  (in your Cervin-van/Cervin-van repo)
+
+  Content of snake.yml:
+  ────────────────────────────────────────
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ────────────────────────────────────────
+-->
