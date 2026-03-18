@@ -301,7 +301,7 @@ Ivan · Іван, 19 y.o.
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="chervinivan@gmail.com">
+<a href="mailto:chervinivan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
