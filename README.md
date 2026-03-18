@@ -32,52 +32,74 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════╗
-     ║               3-COLUMN BIO BLOCK                ║
+     ║            ABOUT ME  ×  CLASS IVAN              ║
      ╚══════════════════════════════════════════════════╝ -->
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="58%" valign="top">
 
-**🧑‍💻 WHO AM I**
+```python
+class Ivan:
+    # ── Identity ──────────────────────────────────────
+    name       = "Ivan"
+    age        = 19
+    location   = "Lviv, Ukraine 🇺🇦"
+    university = "Lviv Polytechnic National University"
+    role       = "Full-Stack Developer"
 
-Ivan, 19 y.o.  
-Student at **Lviv Polytechnic**  
-Full-Stack Developer  
-Networking enthusiast  
+    # ── Tech Stack ────────────────────────────────────
+    stack = {
+        "backend":   ["Python", "Django", "FastAPI",
+                      "Flask", "DRF", "REST API"],
+        "frontend":  ["React", "JavaScript",
+                      "TypeScript", "HTML", "CSS"],
+        "databases": ["PostgreSQL", "SQLite"],
+        "devops":    ["Docker", "Linux", "Git", "Cisco"],
+    }
+
+    # ── Currently Learning ────────────────────────────
+    learning = ["Redux", "SCSS", "NumPy", "Pandas",
+                "Pydantic", "Celery", "SQLAlchemy",
+                "Pytest", "Asyncio", "TypeScript"]
+
+    # ── Goals ─────────────────────────────────────────
+    goals = [
+        "Become Senior Full-Stack Developer",
+        "Contribute to Open Source",
+        "Build real-world products",
+    ]
+
+    quote = "Code is poetry written in logic 🚀"
+
+    def greet(self):
+        return f"Hi! I'm {self.name}, let's build!"
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<br/>
+
+**🧑‍💻 WHO AM I · ХТО Я**
+
+Ivan · Іван, 19 y.o.  
+🎓 Lviv Polytechnic · Львів. Політехніка  
+💻 Full-Stack Developer  
+🌐 Networking enthusiast  
 
 ---
 
-**🇺🇦 ХТО Я**
+**⚡ WHAT I DO · ЩО Я РОБЛЮ**
 
-Іван, 19 років  
-Студент **Львів. Політехніки**  
-Full-Stack розробник  
-Мережевий ентузіаст  
-
-</td>
-<td align="center" width="33%">
-
-**⚡ WHAT I DO**
-
-Build REST APIs with Django & FastAPI  
-Create SPAs with React + TypeScript  
-Design PostgreSQL databases  
-Containerize apps with Docker  
+→ REST APIs with Django & FastAPI  
+→ SPAs with React + TypeScript  
+→ PostgreSQL database design  
+→ Containerization with Docker  
 
 ---
 
-**⚙️ ЩО Я РОБЛЮ**
-
-REST API на Django та FastAPI  
-SPA на React + TypeScript  
-Бази даних PostgreSQL  
-Контейнеризую через Docker  
-
-</td>
-<td align="center" width="33%">
-
-**🎯 WHERE I'M HEADED**
+**🎯 WHERE I'M HEADED · МЕТА**
 
 → Senior Full-Stack Developer  
 → Open Source contributor  
@@ -86,38 +108,12 @@ SPA на React + TypeScript
 
 ---
 
-**🚀 ДО ЧОГО ПРАГНУ**
-
-→ Senior Full-Stack Dev  
-→ Open Source контрибютор  
-→ Реальні продукти  
-→ Завжди в навчанні  
+> *"Code is poetry written in logic"*  
+> — Ivan, 2026
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ── CLASS IVAN ───────────────────────────────────────────────── -->
-<div align="center">
-
-```python
-class Ivan:
-    name, age, location = "Ivan", 19, "Lviv, Ukraine 🇺🇦"
-    university = "Lviv Polytechnic National University"
-
-    stack = {
-        "backend":   ["Python", "Django", "FastAPI", "Flask", "DRF"],
-        "frontend":  ["React", "JavaScript", "TypeScript", "HTML", "CSS"],
-        "databases": ["PostgreSQL", "SQLite"],
-        "devops":    ["Docker", "Linux", "Git", "Cisco"],
-    }
-
-    def greet(self): return "Let's build something awesome! 🚀"
-```
-
-</div>
 
 ---
 
