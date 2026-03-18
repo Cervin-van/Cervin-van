@@ -70,7 +70,7 @@ class Ivan:
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="top" align="rightr">
 
 <br/>
 
