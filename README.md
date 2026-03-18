@@ -293,15 +293,15 @@ Ivan · Іван, 19 y.o.
 
 ## 🤝 Connect
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/ivan-chervin-25b5aa384/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://t.me/your_telegram">
+<a href="https://t.me/cervin_van">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="chervinivan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
