@@ -1,31 +1,25 @@
-<!-- ══════════════════════════════════════════════════════
-     GitHub Profile README · Cervin-van · Ivan
-     Layout: Banner → Bio → Skills → Stats → Snake → Projects → Footer
-     ══════════════════════════════════════════════════════ -->
-
 <!-- ╔══════════════════════════════════════════════════╗
      ║              ANIMATED HEADER BANNER              ║
      ╚══════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,7,30&height=220&section=header&text=Ivan%20%2F%20Cervin-van&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Web%20Enthusiast%20%7C%20Lviv%2C%20Ukraine%20%F0%9F%87%BA%F0%9F%87%A6&descAlignY=60&descSize=16&descColor=aaaaaa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivan%20%2F%20Cervin-van&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Web%20Enthusiast%20%7C%20Lviv%2C%20Ukraine&descAlignY=62&descSize=17&descColor=cccccc"/>
 
-<!-- ── TYPING ANIMATION ─────────────────────────────────────────── -->
+<!-- ── TYPING + BADGES ──────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=FF2D78&center=true&vCenter=true&repeat=true&width=680&lines=%3E_+Backend%3A+Python+%7C+Django+%7C+FastAPI+%7C+Flask;%3E_+Frontend%3A+React+%7C+JavaScript+%7C+TypeScript;%3E_+DevOps%3A+Docker+%7C+Linux+%7C+PostgreSQL;%3E_+Let%27s+build+something+awesome+%F0%9F%9A%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=FF2D78&center=true&vCenter=true&repeat=true&width=680&lines=%3E_+Backend%3A+Python+%7C+Django+%7C+FastAPI+%7C+Flask;%3E_+Frontend%3A+React+%7C+JavaScript+%7C+TypeScript;%3E_+DevOps%3A+Docker+%7C+Linux+%7C+PostgreSQL;%3E_+Let%27s+build+something+awesome!" alt="typing"/>
 
-<br/>
+<br/><br/>
 
-<!-- ── QUICK BADGES ─────────────────────────────────────────────── -->
 <a href="https://github.com/Cervin-van">
-  <img src="https://komarev.com/ghpvc/?username=Cervin-van&style=flat-square&color=FF2D78&label=profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=Cervin-van&style=for-the-badge&color=FF2D78&label=PROFILE+VIEWS"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Lviv%20Polytechnic-0d1117?style=flat-square&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Lviv%20Polytechnic-0d1117?style=for-the-badge&logo=graduation-cap&logoColor=00F5FF&color=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/age-19-0d1117?style=flat-square&color=00F5FF"/>
+<img src="https://img.shields.io/badge/AGE%3A%2019-0d1117?style=for-the-badge&logoColor=FF2D78&color=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/open%20to%20work-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logoColor=white"/>
 
 </div>
 
