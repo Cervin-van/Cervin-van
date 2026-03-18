@@ -30,7 +30,7 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
 ```python
 class Ivan:
