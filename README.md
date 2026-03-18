@@ -37,7 +37,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **🧑‍💻 WHO AM I**
 
@@ -56,7 +56,7 @@ Full-Stack розробник
 Мережевий ентузіаст  
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **⚡ WHAT I DO**
 
@@ -75,7 +75,7 @@ SPA на React + TypeScript
 Контейнеризую через Docker  
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **🎯 WHERE I'M HEADED**
 
