@@ -119,32 +119,54 @@ class Ivan:
 
 ## 📊 GitHub Stats | Статистика
 
-<a href="https://github.com/Cervin-van">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cervin-van&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&border_color=6C63FF&title_color=6C63FF&icon_color=FF6584"/>
-</a>
-<a href="https://github.com/Cervin-van">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cervin-van&layout=compact&theme=tokyonight&border_radius=12&border_color=6C63FF&title_color=6C63FF&langs_count=8"/>
-</a>
+<!-- Stats Card -->
+<img height="175em"
+  src="https://github-readme-stats.vercel.app/api?username=Cervin-van&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&border_radius=12&border_color=6C63FF&title_color=6C63FF&icon_color=FF6584&text_color=c9d1d9&bg_color=1a1b27&cache_seconds=1800"
+  alt="Cervin-van GitHub Stats"/>
+
+<!-- Top Languages -->
+<img height="175em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cervin-van&layout=donut&theme=tokyonight&border_radius=12&border_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&bg_color=1a1b27&langs_count=8&cache_seconds=1800"
+  alt="Cervin-van Top Languages"/>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cervin-van&theme=tokyonight&border_radius=12&border=6C63FF&ring=6C63FF&fire=FF6584&currStreakLabel=FF6584" alt="GitHub Streak" />
+<!-- GitHub Streak (reliable mirror) -->
+<img
+  src="https://streak-stats.demolab.com/?user=Cervin-van&theme=tokyonight&border_radius=12&border=6C63FF&ring=6C63FF&fire=FF6584&currStreakLabel=FF6584&background=1a1b27"
+  alt="GitHub Streak"/>
 
 </div>
 
 ---
 
 <!-- ════════════════════  SNAKE ANIMATION  ═════════════════════════ -->
+<!--
+  ⚙️ SETUP REQUIRED: Щоб змійка запрацювала:
+  1. Створи репозиторій Cervin-van/Cervin-van
+  2. Dodaj файл .github/workflows/snake.yml (зміст нижче у коментарі)
+  3. Запусти workflow вручну один раз → Settings → Actions
+  Після цього snake.svg з'явиться у гілці output та буде оновлюватись щодня.
+-->
 
 <div align="center">
 
 ## 🐍 Contribution Snake | Змія внесків
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"
+    onerror="this.srcset='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg'"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake.svg"
+    onerror="this.srcset='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg'"/>
+  <img
+    width="100%"
+    alt="🐍 github contribution snake animation"
+    src="https://raw.githubusercontent.com/Cervin-van/Cervin-van/output/github-snake-dark.svg"
+    onerror="this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg'"/>
 </picture>
 
 </div>
