@@ -70,7 +70,7 @@ class Ivan:
 ```
 
 </td>
-<td width="100%" valign="top" align="rightr">
+<td width="40%" valign="top" align="right">
 
 <br/>
 
@@ -131,6 +131,7 @@ Ivan · Іван, 19 y.o.
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
 
@@ -139,7 +140,6 @@ Ivan · Іван, 19 y.o.
 
 ### 🌱 Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
 ![SCSS](https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
@@ -182,7 +182,7 @@ Ivan · Іван, 19 y.o.
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=F7DF1E)
 ![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=7C3AED)
 
 </div>
@@ -203,6 +203,14 @@ Ivan · Іван, 19 y.o.
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Cervin-van&theme=dark&hide_border=true&ring=FF2D78&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&background=0d1117" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cervin-van&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="trophies"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cervin-van&bg_color=0d1117&color=00F5FF&line=FF2D78&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
